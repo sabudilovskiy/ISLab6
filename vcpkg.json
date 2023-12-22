@@ -1,0 +1,12 @@
+{
+  "name" : "lab6",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "4cac260c4b7331538d31886f57739fea0bffa27e",
+  "dependencies" : [ {
+    "name" : "boost-uuid",
+    "version>=" : "1.83.0"
+  }, {
+    "name" : "fmt",
+    "version>=" : "10.1.1"
+  } ]
+}
