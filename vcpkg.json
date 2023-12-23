@@ -8,5 +8,8 @@
   }, {
     "name" : "fmt",
     "version>=" : "10.1.1"
+  }, {
+    "name" : "nlohmann-json",
+    "version>=" : "3.11.3"
   } ]
 }
